@@ -14,10 +14,11 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
+FTD_MirrormodeWarner/[Dd]ebug/
+FTD_MirrormodeWarner/[Dd]ebugPublic/
+FTD_MirrormodeWarner/[Rr]elease/
+FTD_MirrormodeWarner/[Rr]eleases/
+FTD_MirrormodeWarner/0Harmony.dll
 x64/
 x86/
 [Aa][Rr][Mm]/
